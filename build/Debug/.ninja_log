@@ -1,0 +1,7 @@
+# ninja log v7
+5	38	1793272676251267463	CMakeFiles/project-lila.dir/Src/startup_stm32f407xx.S.obj	591b125406a7d456
+1	144	1794657312758226522	CMakeFiles/project-lila.dir/Src/main.c.obj	c90143472a3f87f0
+2	62	1793272676248796114	CMakeFiles/project-lila.dir/Src/sysmem.c.obj	b06de01d324f3306
+2	83	1793272676248267451	CMakeFiles/project-lila.dir/Src/syscall.c.obj	83f3fd86a947629f
+144	178	1794657312901227299	project-lila.elf	48f3c63289cc9708
+5	121	1793272676251644500	CMakeFiles/project-lila.dir/Src/system_stm32f4xx.c.obj	e0ead2f8928608d8

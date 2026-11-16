@@ -1,0 +1,3 @@
+/home/warch/PROJECTS/project-lila/build/Debug/CMakeFiles/project-lila.dir
+/home/warch/PROJECTS/project-lila/build/Debug/CMakeFiles/edit_cache.dir
+/home/warch/PROJECTS/project-lila/build/Debug/CMakeFiles/rebuild_cache.dir

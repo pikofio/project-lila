@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/warch/PROJECTS/project-lila/build/Debug",
+  "command": "/home/warch/.local/share/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc -DDEBUG -DRTE_DEVICE_STARTUP_STM32F4XX -DSTM32F407xx -I/home/warch/PROJECTS/project-lila/Inc -I/home/warch/PROJECTS/project-lila/Include -I/home/warch/PROJECTS/project-lila/Inc/libs/board -I/home/warch/PROJECTS/project-lila/Inc/libs/board/peripherals -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles/project-lila.dir/Src/syscall.c.obj -c /home/warch/PROJECTS/project-lila/Src/syscall.c",
+  "file": "/home/warch/PROJECTS/project-lila/Src/syscall.c",
+  "output": "/home/warch/PROJECTS/project-lila/build/Debug/CMakeFiles/project-lila.dir/Src/syscall.c.obj"
+},
+{
+  "directory": "/home/warch/PROJECTS/project-lila/build/Debug",
+  "command": "/home/warch/.local/share/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc -DDEBUG -DRTE_DEVICE_STARTUP_STM32F4XX -DSTM32F407xx -I/home/warch/PROJECTS/project-lila/Inc -I/home/warch/PROJECTS/project-lila/Include -I/home/warch/PROJECTS/project-lila/Inc/libs/board -I/home/warch/PROJECTS/project-lila/Inc/libs/board/peripherals -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles/project-lila.dir/Src/sysmem.c.obj -c /home/warch/PROJECTS/project-lila/Src/sysmem.c",
+  "file": "/home/warch/PROJECTS/project-lila/Src/sysmem.c",
+  "output": "/home/warch/PROJECTS/project-lila/build/Debug/CMakeFiles/project-lila.dir/Src/sysmem.c.obj"
+},
+{
+  "directory": "/home/warch/PROJECTS/project-lila/build/Debug",
+  "command": "/home/warch/.local/share/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc -DDEBUG -DRTE_DEVICE_STARTUP_STM32F4XX -DSTM32F407xx -I/home/warch/PROJECTS/project-lila/Inc -I/home/warch/PROJECTS/project-lila/Include -I/home/warch/PROJECTS/project-lila/Inc/libs/board -I/home/warch/PROJECTS/project-lila/Inc/libs/board/peripherals -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles/project-lila.dir/Src/main.c.obj -c /home/warch/PROJECTS/project-lila/Src/main.c",
+  "file": "/home/warch/PROJECTS/project-lila/Src/main.c",
+  "output": "/home/warch/PROJECTS/project-lila/build/Debug/CMakeFiles/project-lila.dir/Src/main.c.obj"
+},
+{
+  "directory": "/home/warch/PROJECTS/project-lila/build/Debug",
+  "command": "/home/warch/.local/share/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc -DDEBUG -DRTE_DEVICE_STARTUP_STM32F4XX -DSTM32F407xx -I/home/warch/PROJECTS/project-lila/Inc -I/home/warch/PROJECTS/project-lila/Include -I/home/warch/PROJECTS/project-lila/Inc/libs/board -I/home/warch/PROJECTS/project-lila/Inc/libs/board/peripherals -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -x assembler-with-cpp -MMD -MP -o CMakeFiles/project-lila.dir/Src/startup_stm32f407xx.S.obj -c /home/warch/PROJECTS/project-lila/Src/startup_stm32f407xx.S",
+  "file": "/home/warch/PROJECTS/project-lila/Src/startup_stm32f407xx.S",
+  "output": "/home/warch/PROJECTS/project-lila/build/Debug/CMakeFiles/project-lila.dir/Src/startup_stm32f407xx.S.obj"
+},
+{
+  "directory": "/home/warch/PROJECTS/project-lila/build/Debug",
+  "command": "/home/warch/.local/share/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin/arm-none-eabi-gcc -DDEBUG -DRTE_DEVICE_STARTUP_STM32F4XX -DSTM32F407xx -I/home/warch/PROJECTS/project-lila/Inc -I/home/warch/PROJECTS/project-lila/Include -I/home/warch/PROJECTS/project-lila/Inc/libs/board -I/home/warch/PROJECTS/project-lila/Inc/libs/board/peripherals -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles/project-lila.dir/Src/system_stm32f4xx.c.obj -c /home/warch/PROJECTS/project-lila/Src/system_stm32f4xx.c",
+  "file": "/home/warch/PROJECTS/project-lila/Src/system_stm32f4xx.c",
+  "output": "/home/warch/PROJECTS/project-lila/build/Debug/CMakeFiles/project-lila.dir/Src/system_stm32f4xx.c.obj"
+}
+]

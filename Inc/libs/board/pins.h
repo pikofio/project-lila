@@ -1,0 +1,35 @@
+#ifndef PINS_H
+#define PINS_H
+//here lives definitions of what each pin is mapped to what (PD12 -> GREEN LED, PYXX->UART_IN, ...)
+
+
+// pin description
+typedef enum {
+    PA00 = 0x00UL, PA01, PA02, PA03, PA04, PA05, PA06, PA07, PA08, PA09, PA10, PA11, PA12, PA13, PA14, PA15,
+    PB00 = 0x10UL, PB01, PB02, PB03, PB04, PB05, PB06, PB07, PB08, PB09, PB10, PB11, PB12, PB13, PB14, PB15,
+    PC00 = 0x20UL, PC01, PC02, PC03, PC04, PC05, PC06, PC07, PC08, PC09, PC10, PC11, PC12, PC13, PC14, PC15,
+    PD00 = 0x30UL, PD01, PD02, PD03, PD04, PD05, PD06, PD07, PD08, PD09, PD10, PD11, PD12, PD13, PD14, PD15,
+    PE00 = 0x40UL, PE01, PE02, PE03, PE04, PE05, PE06, PE07, PE08, PE09, PE10, PE11, PE12, PE13, PE14, PE15,
+    PH00 = 0x70UL, PH01
+}PIN;
+
+//pin description for UART
+#define USART2_RX PD06
+#define USART2_TX PD05
+
+
+//pin description for ETH
+#define ETH_RMII_REF_CLK PA01
+#define ETH_RMII_CRS_DV PA07
+
+#define ETH_RMII_TX_EN PB11
+#define ETH_RMII_TX_0 PB12
+#define ETH_RMII_TX_1 PB13
+
+#define ETH_RMII_RX_0 PC4
+#define ETH_RMII_RX_1 PC5
+
+#define ETH_MDC PC01
+#define ETH_MDIO PA02
+
+#endif
